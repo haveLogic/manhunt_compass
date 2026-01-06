@@ -1,2 +1,6 @@
 # manhunt_compass
 一个MCjava版追踪指南针数据包
+输入命令/team join hunters/speed_runner加入速通者或者猎人
+猎人随时有一个追踪指南针，死后指南针会消失
+支持跨纬度追踪
+加入游戏时会获得一个成就来引导开始
