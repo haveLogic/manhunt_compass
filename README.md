@@ -2,6 +2,8 @@
 
 一个MCjava版追踪指南针数据包
 
+可以图形化选队
+
 输入命令/team join hunters/speed_runner加入速通者或者猎人
 
 猎人随时有一个追踪指南针，死后指南针会消失
