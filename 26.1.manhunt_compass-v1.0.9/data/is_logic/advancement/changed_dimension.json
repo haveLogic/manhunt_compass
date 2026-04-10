@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "changed_dimension":{
+            "trigger": "changed_dimension",
+            "conditions": {
+                "player": {
+                    "team": "speed_runner"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "is_logic:save_temp_pos"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "title":{
+        "text": "选择队伍",
+        "color": "light_purple"
+    },
+    "body": [
+        {
+            "type": "item",
+            "item": {
+                "id": "compass",
+                "components": {
+                    "enchantments": {"vanishing_curse":1}
+                }
+            }
+        },
+        {
+            "type": "plain_message",
+            "contents": {"text": "作者:isLogic","color": "aqua"}
+        }
+    ],
+    "type":"multi_action",
+    "actions": [
+        {
+            "label": {
+                "text": "加入猎人",
+                "color": "red"
+            },
+            "tooltip": {
+                "text": "别扔指南针"
+            },
+            "action": {
+                "type": "run_command",
+                "command": "trigger join_hunters set 1"
+            }
+        },
+        {
+            "label": {
+                "text": "加入速通者"
+            },
+            "tooltip": {
+                "text": "一牢永役"
+            },
+            "action": {
+                "type": "run_command",
+                "command": "trigger join_runner set 1"
+            }
+        },
+        {
+            "label": {
+                "text": "预开始",
+                "color": "light_purple"
+            },
+            "tooltip": {
+                "text": "解封"
+            },
+            "action": {
+                "type": "run_command",
+                "command": "function is_logic:start"
+            }
+        },
+        {
+            "label": {
+                "text": "聚集",
+                "color": "light_purple"
+            },
+            "action": {
+                "type": "run_command",
+                "command": "tp @a @p[team=speed_runner]"
+            }
+        },
+        {
+            "label": {
+                "text": "旁观(不能反悔!)"
+            },
+            "tooltip": {
+                "text": "不能反悔！"
+            },
+            "action": {
+                "type": "run_command",
+                "command": "trigger spectator set 1"
+            }
+        }
+    ]
+}

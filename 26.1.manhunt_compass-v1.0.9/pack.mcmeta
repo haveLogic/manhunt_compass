@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "作者:isLogic",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}

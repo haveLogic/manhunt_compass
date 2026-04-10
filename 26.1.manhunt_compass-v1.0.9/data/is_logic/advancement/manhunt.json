@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "manhunt":{
+            "trigger": "location"
+        }
+    },
+    "display": {
+        "title": "猎人游戏(按G或Esc选队伍)",
+        "description": "作者:isLogic",
+        "icon": {
+            "id": "compass"
+        },
+        "background": "block/green_wool"
+    },
+    "rewards": {
+        "function": "is_logic:say_game"
+    }
+}
