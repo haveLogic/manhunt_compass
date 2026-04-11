@@ -1,3 +1,4 @@
+<img width="1037" height="1037" alt="give" src="https://github.com/user-attachments/assets/40c37756-5b01-4310-9a75-ccfcdfd71fdb" />
 # manhunt_compass
 
 一个MCjava版追踪指南针数据包
