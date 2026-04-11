@@ -17,7 +17,7 @@
 7指南针逻辑：
 猎人手持指南针时，同纬度有速通者时，用实时存储的坐标更新；不同纬度，且与缓存的坐标纬度相同时，用缓存坐标更新，缓存只有一级
 
-<img width="950" height="534" alt="mini" src="https://github.com/user-attachments/assets/abba180c-2509-4eb3-8d1f-a1c789ae8a1c" />
+<img width="551" height="309" alt="mini" src="https://github.com/user-attachments/assets/bb7614b3-c736-4fc3-8e0f-d90e69fa707e" />
 
 通过微信👇🏻赞赏作者一杯咖啡
 <img width="1037" height="1037" alt="give" src="https://github.com/user-attachments/assets/40c37756-5b01-4310-9a75-ccfcdfd71fdb" />
