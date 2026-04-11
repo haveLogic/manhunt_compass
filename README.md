@@ -1,4 +1,3 @@
-
 # manhunt_compass
 
 一个MCjava版追踪指南针数据包
@@ -18,5 +17,6 @@
 7指南针逻辑：
 猎人手持指南针时，同纬度有速通者时，用实时存储的坐标更新；不同纬度，且与缓存的坐标纬度相同时，用缓存坐标更新，缓存只有一级
 
+<img width="1900" height="1068" alt="2026-04-11_21 03 29" src="https://github.com/user-attachments/assets/7807a44e-5a30-40be-9989-80eba1d3a3e5" />
 通过微信👇🏻赞赏作者一杯咖啡
 <img width="1037" height="1037" alt="give" src="https://github.com/user-attachments/assets/40c37756-5b01-4310-9a75-ccfcdfd71fdb" />
