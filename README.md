@@ -12,5 +12,6 @@
 支持跨纬度追踪
 
 加入游戏时会获得一个成就来引导开始
+
 通过微信👇🏻赞赏作者一杯咖啡
 <img width="1037" height="1037" alt="give" src="https://github.com/user-attachments/assets/40c37756-5b01-4310-9a75-ccfcdfd71fdb" />
