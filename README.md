@@ -20,4 +20,4 @@
 <img width="551" height="309" alt="mini" src="https://github.com/user-attachments/assets/bb7614b3-c736-4fc3-8e0f-d90e69fa707e" />
 
 通过微信👇🏻赞赏作者一杯咖啡
-<img width="1037" height="1037" alt="donate_islogic" src="https://github.com/user-attachments/assets/2cca7a34-f392-4c6f-8d3a-0dca39615be0" />
+<img width="1037" height="1037" alt="donate" src="https://github.com/user-attachments/assets/80d28097-4d03-4937-9189-c8a2e231435e" />
